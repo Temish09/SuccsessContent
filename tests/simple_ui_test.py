@@ -24,7 +24,7 @@ def test_mood_screen():
     MainApp()
     Builder.load_string(RateScreen.get_descritpion())
     widget = RateScreen()
-    assert widget.children[0].children[0].children[1].children[0].hint_text == 'Commentary'
+    assert widget.children[0].children[0].children[1].children[1].hint_text == 'Commentary'
     assert widget.children[0].children[0].children[2].children[1].text == 'Days in a Row'
 
 
