@@ -18,7 +18,7 @@ Python collaborative project for uneex course
 ## Architecture
 
 <p align="center">
-  <img src="./img/Architecture.png" alt="Architecture" width="738">
+  <img src="https://github.com/Temish09/SuccsessContent/blob/main/img/Architecture.png" alt="Architecture" width="738">
 </p>
 
 The application consists of 4 parts:
